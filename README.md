@@ -12,7 +12,7 @@
 ## 🏗️ 02. System Architecture & Data Flow
 [cite_start]The architecture is built on a high-availability 4-tier stack, ensuring zero-latency at the Edge and robust automation in the Cloud[cite: 56].
 
-![System Architecture](./assets/system_architecture.png)
+![System Architecture](./assest/system_architecture.png)
 
 ### 🛠️ The Tech Stack:
 * [cite_start]**Edge Layer:** ESP32 Microcontrollers for real-time data acquisition[cite: 67].
